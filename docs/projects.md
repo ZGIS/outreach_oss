@@ -1,5 +1,4 @@
 # smart-owc-geojson
-===================
 
 OGC OWS Context GeoJSON Encoding Standard 1.0 (14-055r2) for Play Framework 2.5.x
 
@@ -51,6 +50,14 @@ This software is distributed under the Apache Software License 2.0.
 [![Build Status](https://img.shields.io/travis/ZGIS/smart-portal-webgui.svg?style=flat-square)](https://travis-ci.org/ZGIS/smart-portal-webgui)
 
 [![OpenHUB](https://www.openhub.net/p/smart-portal-webgui/widgets/project_thin_badge.gif)](https://www.openhub.net/p/smart-portal-webgui)
+
+This software is distributed under the Apache Software License 2.0.
+
+- Angular (Yes, Angular 2+ currently, at 4.x)is a development platform for building mobile and desktop web applications. Powered by Google 2010-2017, licensed under an MIT-style License.
+- OpenLayers is a high-performance, feature-packed library for creating interactive maps on the web, distributed under the BSD 2-clause "Simplified" License.
+- Bootstrap (currently using BS3.3.7) is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web, distributed under the MIT License.
+- TypeScript (TS 2.3) is a language for application-scale JavaScript, and adds optional types, classes, and modules and supports tools for large-scale JavaScript applications, distributed under the Apache Software License 2.0.
+- Webpack Build System is a module bundler to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset. MIT License.
 
 # SMART Portal Backend Play
 
