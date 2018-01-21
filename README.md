@@ -21,7 +21,7 @@ the same time.
 
 Please have a look at:
 
-https://zgis.github.io/zgis_outreach_oss/
+https://zgis.github.io/outreach_oss/
 
 ## We are applying for Google Summer of Code 2018
 
@@ -31,6 +31,8 @@ https://github.com/ZGIS/outreach_oss/wiki
 
 ## Get in touch with us
 
-Alexander[dot]Kmoch[at]ut[dot]ee
-Steffen[dot]Reichel[at]sbg[dot]ac[dot]at
+- Alexander[dot]Kmoch[at]ut[dot]ee
 
+- Steffen[dot]Reichel[at]sbg[dot]ac[dot]at
+
+- Gitter Chat room: [gitter.im/Z_GIS](https://gitter.im/Z_GIS/Lobby?source=orgpage)
