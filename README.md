@@ -35,4 +35,4 @@ https://github.com/ZGIS/outreach_oss/wiki
 
 - Steffen[dot]Reichel[at]sbg[dot]ac[dot]at
 
-- Gitter Chat room: [gitter.im/Z_GIS](https://gitter.im/Z_GIS/Lobby?source=orgpage)
+- Gitter Chat room: [gitter.im/Z_GIS/GSOC](https://gitter.im/Z_GIS/GSOC?source=orgpage)
