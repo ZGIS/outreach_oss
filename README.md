@@ -33,6 +33,6 @@ https://github.com/ZGIS/outreach_oss/wiki
 
 - Alexander[dot]Kmoch[at]ut[dot]ee
 
-- Steffen[dot]Reichel[at]sbg[dot]ac[dot]at
+- steffen[dot]reichel[dot]zgis[at]gmail[dot]com
 
 - Gitter Chat room: [gitter.im/Z_GIS/GSOC](https://gitter.im/Z_GIS/GSOC?source=orgpage)
